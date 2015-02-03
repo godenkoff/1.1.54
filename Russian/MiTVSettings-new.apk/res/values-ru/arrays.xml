@@ -44,20 +44,20 @@
   <item>4</item> 
   <item>7</item> 
   </integer-array>
-    <string-array name="tv1_preview_policy">
-        <item>TV</item>
-        <item>AV</item>
-        <item>HDMI 1</item>
-        <item>HDMI 2</item>
-        <item>VGA</item>
-    </string-array>
-    <integer-array name="tv1_preview_policy_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-    </integer-array>
+  <string-array name="tv1_preview_policy">
+  <item>TV</item>
+  <item>AV</item>
+  <item>HDMI 1</item>
+  <item>HDMI 2</item>
+  <item>VGA</item>
+  </string-array>
+  <integer-array name="tv1_preview_policy_values">
+  <item>0</item>
+  <item>1</item>
+  <item>2</item>
+  <item>3</item>
+  <item>4</item>
+  </integer-array>
   <integer-array name="screensaver_policy_values">
   <item>0</item> 
   <item>1</item> 
