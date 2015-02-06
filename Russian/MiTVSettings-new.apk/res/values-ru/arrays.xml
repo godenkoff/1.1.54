@@ -1,10 +1,10 @@
   <?xml version="1.0" encoding="utf-8" ?> 
   <resources>
   <string-array name="device_names">
-  <item>ТВ в гостинной</item> 
-  <item>ТВ в спальне</item> 
-  <item>ТВ в зале</item> 
-  <item>ТВ в детской</item> 
+  <item>MiTV - в гостинной</item> 
+  <item>MiTV - в спальне</item> 
+  <item>MiTV - в зале</item> 
+  <item>MiTV - в детской</item> 
   <item>Автоименование</item> 
   </string-array>
   <string-array name="sleep_policy">
