@@ -6,7 +6,7 @@
   <string name="about">Информация о MiTV</string>
   <string name="about_desc">Информация об устройстве</string>
   <string name="about_soundBar">О Mi Sound Bar</string>
-  <string name="about_upgrading">更新中...</string>
+  <string name="about_upgrading">Обновление...</string>
   <string name="account">Аккаунт Xiaomi</string>
   <string name="account_desc">Войдите или зарегистрируйтесь в аккаунте Xiaomi</string>
   <string name="account_security">Аккаунт и безопасность</string>
@@ -25,13 +25,13 @@
   <string name="adb_warning_hint1">Вы подтверждаете, что хотите использовать ABD отладку?</string>
   <string name="adb_warning_hint2">Режим ABD отладки используется разработчиками для тестирования приложений. Эта функция может быть использована для копирования данных между компьютером и устройством, установки приложений на устройство без уведомления, а также просмотра системных журналов и данных.</string>
   <string name="add_active_shutter_glasses">Добавление 3D-очков</string>
-  <string name="add_active_shutter_glasses_success_1">Added</string>
-  <string name="add_active_shutter_glasses_success_2">pair of 3D glasses</string>
+  <string name="add_active_shutter_glasses_success_1">Добавлена</string>
+  <string name="add_active_shutter_glasses_success_2">пара 3D-очков</string>
   <string name="add_active_shutter_glasses_success_desc">You can go on or back</string>
-  <string name="add_active_shutter_glasses_trip_out">Remove the film around the batteries</string>
-  <string name="all_complete_hint">Congratulations!</string>
+  <string name="add_active_shutter_glasses_trip_out">Удалить пленку на батарейке</string>
+  <string name="all_complete_hint">Поздравляем!</string>
   <string name="allow">Разрешить</string>
-  <string name="and">and</string>
+  <string name="and">и</string>
   <string name="app">Программы</string>
   <string name="app_name">Настройки MiTV</string>
   <string name="attention">Внимание!!!</string>
@@ -141,7 +141,7 @@
   <string name="connected">Подключено</string> 
   <string name="connected_ap">Подключено к сети</string>
   <string name="connecting">Just a sec...</string>
-  <string name="connecting_keep_close">连接中，请保持20cm以内距离</string> 
+  <string name="connecting_keep_close">Подключение, держите пульт на расстоянии 20-ти см.</string> 
   <string name="contact_info_1">Если у вас есть какие-то вопросы, обращайтесь службу поддержки Xiaomi</string> 
   <string name="contact_info_2">Телефон: 400-100-5678</string> 
   <string name="contact_info_3">Онлайн-сервис: www.mi.com/service</string> 
@@ -163,7 +163,7 @@
   <string name="default_sd">Сохранить приложения на SD-карту</string> 
   <string name="default_sd_desc">Сохранить все приложения на внешнюю SD-карту</string> 
   <string name="default_sd_toast">SD-карта не обнаружена, установка невозможна</string>
-  <string name="deny">Deny</string>
+  <string name="deny">Отказаться</string>
   <string name="device_bluetooth">Device & bluetooth</string>
   <string name="device_connected">Connected</string>
   <string name="device_connecting">Connecting</string> 
@@ -212,7 +212,7 @@
   <string name="has_bar">Yes</string>
   <string name="have_sound_continue">Continue</string>
   <string name="hk_product_module">MiTV L49M2-AC</string>
-  <string name="hold">Hold</string>  
+  <string name="hold">Удерживайте кнопки</string>  
   <string name="input_method">Способ ввода</string> 
   <string name="install_unknown_app">Установка приложений из неизвестных источников</string> 
   <string name="install_unknown_app_desc">Разрешить установку приложений из неизвестных источников</string> 
