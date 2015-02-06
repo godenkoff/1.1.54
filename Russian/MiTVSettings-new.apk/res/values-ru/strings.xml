@@ -261,9 +261,7 @@
     <string name="glasses">3D glasses</string>
     <string name="active_shutter">Active Shutter</string>
     <string name="polarization">Polarized</string>
-    <string name="active_shutter_glasses_scan_desc">"Hold the glasses near the lower-right corner of the TV set.
- Then press &amp; hold the Power button on the glasses
-until the light blinks red."</string>
+    <string name="active_shutter_glasses_scan_desc">"Hold the glasses near the lower-right corner of the TV set. Then press &amp; hold the Power button on the glasses until the light blinks red."</string>
     <string name="active_shutter_glasses_exit_scan1">Press remote</string>
     <string name="active_shutter_glasses_exit_scan2">Back</string>
     <string name="active_shutter_glasses_desc" />
@@ -320,8 +318,7 @@ until the light blinks red."</string>
     <string name="refuse">Deny</string>
     <string name="install_warning_hint1">Allow installation of apps from unknown sources?</string>
     <string name="adb_warning_hint1">Allow ADB debugging?</string>
-    <string name="adb_warning_hint2">"ADB debugging is intended for development purposes only.
-Use it to copy data between your computer and your device, install apps on your device without notification and read log data."</string>
+    <string name="adb_warning_hint2">"ADB debugging is intended for development purposes only. Use it to copy data between your computer and your device, install apps on your device without notification and read log data."</string>
     <string name="childlock_open">On</string>
     <string name="childlock_close">Off</string>
     <string name="lockforchild">Parental controls</string>
@@ -335,8 +332,7 @@ Use it to copy data between your computer and your device, install apps on your 
     <string name="screen_saver_set" />
     <string name="screen_saver_account_login">Sign in</string>
     <string name="screen_saver_account_register">Create Mi Account</string>
-    <string name="recovery_settings_contens_hint2">"Erase all your personal information?
-You cannot reverse this action!"</string>
+    <string name="recovery_settings_contens_hint2">"Erase all your personal information? You cannot reverse this action!"</string>
     <string name="recovery_now">Reset</string>
     <string name="recoverying">Resetting</string>
     <string name="waiting">Please wait…</string>
@@ -398,18 +394,14 @@ You cannot reverse this action!"</string>
     <string name="location_district">Region</string>
     <string name="installation_welcome_en">Welcome</string>
     <string name="installation_welcome_desc_en">"Let's set up your Mi TV"</string>
-    <string name="rc_battery_hint1_en">"Remove the plastic
-strip from under
-the battery"</string>
+    <string name="rc_battery_hint1_en">"Remove the plastic strip from under the battery"</string>
     <string name="rc_battery_hint2_en" />
-    <string name="rc_pair_hint_en">"Keep the remote near the
-lower-right corner of the TV set"</string>
+    <string name="rc_pair_hint_en">"Keep the remote near the lower-right corner of the TV set"</string>
     <string name="rc_pair_hear_click_hint_en" />
     <string name="rc_pairing_en" />
     <string name="m7_rc_pair_ble">Connect Remote</string>
     <string name="rc_paired_hint1_en">Remote paired</string>
-    <string name="rc_paired_hint2_en">"You can point the remote
-in any direction during operation."</string>
+    <string name="rc_paired_hint2_en">"You can point the remote in any direction during operation."</string>
     <string name="installation_welcome">歡迎使用小米電視</string>
     <string name="installation_welcome_desc">簡單幾步\u0009開啟智能電視之旅</string>
     <string name="rc_battery_hint1">卸下電池絕緣膜</string>
@@ -427,22 +419,17 @@ in any direction during operation."</string>
     <string name="test_soundbar">Test sound</string>
     <string name="no_sound_retry">No sound, try again</string>
     <string name="have_sound_continue">Continue</string>
-    <string name="check_has_bar">"Do you have Xiaomi
-Home Theater System"</string>
+    <string name="check_has_bar">"Do you have Xiaomi Home Theater System"</string>
     <string name="has_bar">Yes</string>
     <string name="no_bar">No</string>
-    <string name="connect_soundbar_hint1">"Set up
-soundbar and woofer"</string>
+    <string name="connect_soundbar_hint1">"Set up soundbar and woofer"</string>
     <string name="connect_soundbar_hint1_1">Set up soundbar and woofer</string>
     <string name="connect_soundbar_hint2">Set up takes less than 3 minutes</string>
-    <string name="connect_woofer_power1">"Connect the woofer
-to a power source"</string>
+    <string name="connect_woofer_power1">"Connect the woofer to a power source"</string>
     <string name="connect_woofer_power2" />
-    <string name="connect_soundbar_power1">"Connect the soundbar
-to a power source"</string>
+    <string name="connect_soundbar_power1">"Connect the soundbar to a power source"</string>
     <string name="connect_soundbar_power2" />
-    <string name="soundbar_cable1">"Use the audio cable to
-connect the soundbar"</string>
+    <string name="soundbar_cable1">"Use the audio cable to connect the soundbar"</string>
     <string name="soundbar_cable2" />
     <string name="test_soundbar_description">Make sure the speaker is powered on and adjusted to a suitable volume.</string>
     <string name="play_demo_description">"This demo shows off your Mi TV's audio and visual capabilities."</string>
@@ -489,8 +476,7 @@ connect the soundbar"</string>
     <string name="firmware_upgrade_soundbar_upgrade_failed">SoundBar upgrading failed!</string>
     <string name="firmware_upgrade_upgrading_completed">Firmware upgrading completed</string>
     <string name="recovery_desc">Erases all data on TV and restores it to factory settings</string>
-    <string name="recovery_settings_contens_hint1_1">"This will erase all data from your TV's internal storage.
-Apps you've downloaded will be saved."</string>
+    <string name="recovery_settings_contens_hint1_1">"This will erase all data from your TV's internal storage. Apps you've downloaded will be saved."</string>
     <string name="recovery_settings_contens_hint1_2">"This will erase all data from your TV's internal storage, including any apps you've downloaded."</string>
     <string name="tv_info">ABOUT TV</string>
     <string name="rc_connecting_en" />
