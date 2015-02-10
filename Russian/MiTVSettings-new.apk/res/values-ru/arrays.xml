@@ -29,9 +29,9 @@
   <string-array name="tv2_preview_policy">
   <item>TV</item> 
   <item>AV</item> 
-  <item>HDMI1</item> 
-  <item>HDMI2</item> 
-  <item>HDMI3</item> 
+  <item>HDMI 1</item> 
+  <item>HDMI 2</item> 
+  <item>HDMI 3</item> 
   <item>VGA</item> 
   <item>DTMB</item> 
   </string-array>
@@ -91,7 +91,7 @@
   <item>Насыщенность</item> 
   <item>Четкость</item> 
   <item>Оттенок</item> 
-  <item>Цвет.температура</item> 
+  <item>Цвет</item> 
   <item>Подсветка</item> 
   </string-array>
   <string-array name="display_color_temperatures">
@@ -119,12 +119,12 @@
   </string-array>
   <string-array name="xiaomi_sound_output">
   <item>Динамики телевизора</item> 
-  <item>Xiaomi Home Theater</item> 
+  <item>Mi Sound Bar</item> 
   <item>Внешняя аккустика</item> 
   </string-array>
   <string-array name="xiaomi_sound_output_desc">
   <item>Выводить звук через встроенные колоноки</item> 
-  <item>Выводить звук через Xiaomi Home Theater</item> 
+  <item>Выводить звук через Mi Sound Bar</item> 
   <item>Выводить звук через внешние источники</item> 
   </string-array>
   <string-array name="soundBar_customize">
@@ -136,11 +136,11 @@
   <string-array name="SPDIF1">
   <item>PCM</item> 
   <item>Raw Data</item> 
-  <item>ВЫКЛ.</item> 
+  <item>ОТКЛ.</item> 
   </string-array>
   <string-array name="SPDIF2">
-  <item>PCM</item> 
-  <item>ВЫКЛ.</item> 
+  <item>ОТКЛ.</item> 
+  <item>ВКЛ.</item> 
   </string-array>
   <string-array name="acoustics">
   <item>Баланс</item> 
@@ -153,7 +153,7 @@
   <item>Звук через динамики, если выключен домашний кинотеатр</item> 
   </string-array>
   <string-array name="priority">
-  <item>Bluetooth подключение </item> 
+  <item>Сперва по Bluetooth</item> 
   <item>Проводное подключение</item> 
   </string-array>
   <string-array name="recovery_retain">
