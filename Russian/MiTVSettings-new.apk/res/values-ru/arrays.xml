@@ -1,168 +1,168 @@
-<?xml version="1.0" encoding="utf-8" ?> 
-  <resources>
-  <string-array name="screensaver_policy">
-  <item>Отключить</item>
-  <item>1 мин.</item>
-  <item>4 мин.</item>
-  <item>8 мин.</item>
-  <item>12 мин.</item>
-  </string-array>
-  <string-array name="tv2_preview_policy">
-  <item>TV</item>
-  <item>AV</item>
-  <item>HDMI 1</item>
-  <item>HDMI 2</item>
-  <item>HDMI 3</item>
-  <item>VGA</item>
-  <item>DTMB</item>
-  </string-array>
-  <integer-array name="tv2_preview_policy_values">
-  <item>0</item>
-  <item>1</item>
-  <item>2</item>
-  <item>3</item>
-  <item>5</item>
-  <item>4</item>
-  <item>7</item>
-  </integer-array>
-  <string-array name="tv1_preview_policy">
-  <item>TV</item>
-  <item>AV</item>
-  <item>HDMI 1</item>
-  <item>HDMI 2</item>
-  <item>VGA</item>
-  </string-array>
-  <integer-array name="tv1_preview_policy_values">
-  <item>0</item>
-  <item>1</item>
-  <item>2</item>
-  <item>3</item>
-  <item>4</item>
-  </integer-array>
-  <integer-array name="screensaver_policy_values">
-  <item>0</item>
-  <item>1</item>
-  <item>4</item>
-  <item>8</item>
-  <item>12</item>
-  </integer-array>
-  <string-array name="display_sound_profile">
-  <item>Стандарт</item>
-  <item>Ручной</item>
-  <item>Дисплей</item>
-  <item>Фильмы</item>
-  <item>Игры</item>
-  <item>Улучшенный</item>
-  <item>Спорт</item>
-  <item>Монитор</item>
-  </string-array>
-  <string-array name="display_sound_profile_desc">
-  <item>Общий режим изображения и звука во всех сценах</item>
-  <item>Самостоятельная настройка параметров изображения</item>
-  <item>Режим дисплея</item>
-  <item>Максимальное восстановление эффекта пленочного кинопроектора, для улучшения зрительного восприятия</item>
-  <item>Игровой режим</item>
-  <item>Используется для показа слайдов, презентаций и т.д., когда необходимо яркое изображение</item>
-  <item>В этом режиме снижается скорость в динамичных сценах, для уменьшения смазывания изображения</item>
-  <item>Этот режим может быть выбран при подключении к компьтеру или ТВ-приставке</item>
-  </string-array>
-  <string-array name="display_parameters">
-  <item>Яркость</item>
-  <item>Контраст</item>
-  <item>Насыщенность</item>
-  <item>Четкость</item>
-  <item>Оттенок</item>
-  <item>Цвет</item>
-  <item>Подсветка</item>
-  </string-array>
-  <string-array name="display_color_temperatures">
-  <item>Холодный</item>
-  <item>Натуральный</item>
-  <item>Теплый</item>
-  </string-array>
-  <string-array name="sound_input">
-  <item>Bluetooth</item>
-  <item>S/PDIF</item>
-  <item>AUX</item>
-  </string-array>
-  <string-array name="sound_interface">
-  <item>HDMI ARC</item>
-  <item>AMP</item>
-  <item>S/PDIF</item>
-  </string-array>
-  <string-array name="sound_output">
-  <item>Динамики телевизора</item>
-  <item>Внешняя аккустика</item>
-  </string-array>
-  <string-array name="sound_output_desc">
-  <item>Выводить звук через встроенные колоноки</item>
-  <item>Выводить звук через внешние источники</item>
-  </string-array>
-  <string-array name="xiaomi_sound_output">
-  <item>Динамики телевизора</item>
-  <item>Mi Sound Bar</item>
-  <item>Внешняя аккустика</item>
-  </string-array>
-  <string-array name="xiaomi_sound_output_desc">
-  <item>Выводить звук через встроенные колоноки</item>
-  <item>Выводить звук через Mi Sound Bar</item>
-  <item>Выводить звук через внешние источники</item>
-  </string-array>
-  <string-array name="soundBar_customize">
-  <item>Высокие частоты</item>
-  <item>Средние частоты</item>
-  <item>Низкие частоты</item>
-  <item>Ультра-низкие частоты</item>
-  </string-array>
-  <string-array name="SPDIF1">
-  <item>PCM</item>
-  <item>Raw Data</item>
-  <item>ОТКЛ.</item>
-  </string-array>
-  <string-array name="SPDIF2">
-  <item>ОТКЛ.</item>
-  <item>ВКЛ.</item>
-  </string-array>
-  <string-array name="acoustics">
-  <item>Баланс</item>
-  <item>Четкость</item>
-  <item>Усиление</item>
-  </string-array>
-  <string-array name="SPDIF_desc">
-  <item>Digital audio (Stereo)</item>
-  <item>Digital audio (5.1)</item>
-  <item>Звук через динамики, если выключен домашний кинотеатр</item> 
-  </string-array>
-  <string-array name="priority">
-  <item>Сперва по Bluetooth</item>
-  <item>Проводное подключение</item>
-  </string-array>
-  <string-array name="recovery_retain">
-  <item>Сохраниить</item>
-  <item>Не сохранять</item>
-  </string-array>
-  <string-array name="box_sound_output">
-  <item>Аналоговый аудиовыход</item>
-  <item>S/PDIF-PCM</item>
-  <item>S/PDIF-Raw</item>
-  </string-array>
-  <string-array name="device_names">
-  <item>MiTV - в гостинной</item>
-  <item>MiTV - в спальне</item>
-  <item>MiTV - в зале</item>
-  <item>MiTV - в детской</item>
-  <item>Автоименование</item>
-  </string-array>
-  <string-array name="sleep_policy">
-  <item>30 мин.</item>
-  <item>60 мин.</item>
-  <item>120 мин.</item>
-  <item>Никогда</item>
-  </string-array>
-  <integer-array name="sleep_policy_values">
-  <item>30</item>
-  <item>60</item>
-  <item>120</item>
-  <item>2147483647</item>
-  </integer-array>
-  </resources>
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="screensaver_policy">
+        <item>ОТКЛ.</item>
+        <item>1 мин.</item>
+        <item>4 мин.</item>
+        <item>8 мин.</item>
+        <item>12 мин.</item>
+    </string-array>
+    <string-array name="tv2_preview_policy">
+        <item>TV</item>
+        <item>AV</item>
+        <item>HDMI 1</item>
+        <item>HDMI 2</item>
+        <item>HDMI 3</item>
+        <item>VGA</item>
+        <item>DTMB</item>
+    </string-array>
+    <integer-array name="tv2_preview_policy_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>5</item>
+        <item>4</item>
+        <item>7</item>
+    </integer-array>
+    <string-array name="tv1_preview_policy">
+        <item>TV</item>
+        <item>AV</item>
+        <item>HDMI 1</item>
+        <item>HDMI 2</item>
+        <item>VGA</item>
+    </string-array>
+    <integer-array name="tv1_preview_policy_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </integer-array>
+    <integer-array name="screensaver_policy_values">
+        <item>0</item>
+        <item>1</item>
+        <item>4</item>
+        <item>8</item>
+        <item>12</item>
+    </integer-array>
+    <string-array name="display_sound_profile">
+        <item>Стандарт</item>
+        <item>Ручной</item>
+        <item>Дисплей</item>
+        <item>Кино</item>
+        <item>Игры</item>
+        <item>Улучшенный</item>
+        <item>Спорт</item>
+        <item>Монитор</item>
+    </string-array>
+    <string-array name="display_sound_profile_desc">
+        <item>Стандартный режим изображения и звука</item>
+        <item>Использовать индивидуальные настройки дисплея</item>
+        <item>Оптимизирован для работы вместо дисплея</item>
+        <item>Восстановить текстуру пленки на экране</item>
+        <item>Оптимизирован для игр</item>
+        <item>Лучше всего подходит для красочных изображений</item>
+        <item>Снижает размытие в динамичных сценах</item>
+        <item>Оптимизирован для работы вместо монитора</item>
+    </string-array>
+    <string-array name="display_parameters">
+        <item>Яркость</item>
+        <item>Контраст</item>
+        <item>Насыщенность</item>
+        <item>Четкость</item>
+        <item>Оттенок</item>
+        <item>Цвет</item>
+        <item>Подсветка</item>
+    </string-array>
+    <string-array name="display_color_temperatures">
+        <item>Холодный</item>
+        <item>Натуральный</item>
+        <item>Теплый</item>
+    </string-array>
+    <string-array name="sound_input">
+        <item>Bluetooth</item>
+        <item>S/PDIF</item>
+        <item>AUX</item>
+    </string-array>
+    <string-array name="sound_interface">
+        <item>HDMI ARC</item>
+        <item>AMP</item>
+        <item>S/PDIF</item>
+    </string-array>
+    <string-array name="sound_output">
+        <item>Колонки TV</item>
+        <item>Внешние колонки</item>
+    </string-array>
+    <string-array name="sound_output_desc">
+        <item>Вывод звука через встроенные колоноки</item>
+        <item>Вывод звука через внешние колонки</item>
+    </string-array>
+    <string-array name="xiaomi_sound_output">
+        <item>Колонки ТВ</item>
+        <item>Mi Sound Bar</item>
+        <item>Внешние колонки</item>
+    </string-array>
+    <string-array name="xiaomi_sound_output_desc">
+        <item>Колонки ТВ</item>
+        <item>Mi Sound Bar</item>
+        <item>Внешние колонки</item>
+    </string-array>
+    <string-array name="soundBar_customize">
+        <item>Высокие частоты</item>
+        <item>Средние частоты</item>
+        <item>Низкие частоты</item>
+        <item>Ультра-низкие частоты</item>
+    </string-array>
+    <string-array name="SPDIF1">
+        <item>PCM</item>
+        <item>Raw data</item>
+        <item>ОТКЛ.</item>
+    </string-array>
+    <string-array name="SPDIF2">
+        <item>ОТКЛ.</item>
+        <item>ВКЛ.</item>
+    </string-array>
+    <string-array name="acoustics">
+        <item>Баланс</item>
+        <item>Четкость</item>
+        <item>Усиление</item>
+    </string-array>
+    <string-array name="SPDIF_desc">
+        <item>Digital audio (Stereo)</item>
+        <item>Digital audio (5.1)</item>
+        <item>Отключить для аналогового аудио</item>
+    </string-array>
+    <string-array name="priority">
+        <item>Сначала по Bluetooth</item>
+        <item>Последнее подключенное устройство</item>
+    </string-array>
+    <string-array name="recovery_retain">
+        <item>Сохранить</item>
+        <item>Удалить</item>
+    </string-array>
+    <string-array name="box_sound_output">
+        <item>Аналоговый аудиовыход</item>
+        <item>S/PDIF-PCM</item>
+        <item>S/PDIF-Raw</item>
+    </string-array>
+    <string-array name="device_names">
+        <item>Mi TV - Гостиная</item>
+        <item>Mi TV - Спальня</item>
+        <item>Mi TV - Гостевая</item>
+        <item>Mi TV - Кабинет</item>
+        <item>Настроить</item>
+    </string-array>
+    <string-array name="sleep_policy">
+        <item>30 мин.</item>
+        <item>60 мин.</item>
+        <item>120 мин.</item>
+        <item>Никогда</item>
+    </string-array>
+    <integer-array name="sleep_policy_values">
+        <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>2147483647</item>
+    </integer-array>
+</resources>
