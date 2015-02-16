@@ -427,7 +427,7 @@
     <string name="test_soundbar">Проверка звука</string>
     <string name="no_sound_retry">Нет звука, попробуйте еще раз</string>
     <string name="have_sound_continue">Продолжите</string>
-    <string name="check_has_bar">"Do you have Xiaomi
+    <string name="check_has_bar">"Есть ли у вас Xiaomi
 Home Theater System?"</string>
     <string name="has_bar">Да</string>
     <string name="no_bar">Нет</string>
