@@ -399,7 +399,8 @@
     <string name="installation_welcome_en">Добро пожаловать</string>
     <string name="installation_welcome_desc_en">Быстрая настройка MiTV</string>
     <string name="rc_battery_hint1_en">"Удалите изолирующую
-пленку под батарейкой"</string>
+пленку под батарейкой"
+    </string>
     <string name="rc_battery_hint2_en" />
     <string name="rc_pair_hint_en">"Поднесите пульт в
 правый нижний угол MiTV"</string>
